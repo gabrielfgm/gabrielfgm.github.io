@@ -5,11 +5,12 @@ permalink: /about/
 ---
 
 ### Education:
-| Institution | Degree |
-| ----------- | ------:|
-|**Graduate Institute of International and Development Studies** | PhD in History with minor in Economics, Expected 2016 |
-|**Graduate Institute of International and Development Studies** | Masters in International History, 2011|
-|**University of St. Andrews** | MA International Relations and Social Anthropology, 2009|
+
+ Institution | Degree 
+ ----------- | ------:
+**Graduate Institute of International and Development Studies** | PhD in History with minor in Economics, Expected 2016 
+**Graduate Institute of International and Development Studies** | Masters in International History, 2011
+**University of St. Andrews** | MA International Relations and Social Anthropology, 2009
 
 ### Employment:
 
