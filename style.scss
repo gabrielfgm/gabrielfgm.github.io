@@ -155,7 +155,7 @@ img {
 }
 
 .masthead {
-  padding: 50px 0;
+  padding: 40px 0;
   border-bottom: 2px solid $lightGray;
 
   @include mobile {
@@ -165,8 +165,8 @@ img {
 
 .site-avatar {
   float: left;
-  width: 130px;
-  height: 130px;
+  width: 150px;
+  height: 150px;
   margin-right: 15px;
 
   @include mobile {
