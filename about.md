@@ -1,7 +1,6 @@
 ---
 layout: page
 title: CV
-permalink: /CV/
+permalink: /cv_Jan_2017.pdf
 ---
 
-![CV](gabrielfgm.github.io/cv_Jan_2017.pdf)
