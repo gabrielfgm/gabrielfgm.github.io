@@ -1,19 +1,14 @@
 
-"Fraud and Financial Manias: Estimating the Number of 'Bubble' Companies during the Railway Mania of the 1840’s" 
-<details> 
-    <summary> Abstract </summary>
+## Publications
 
-Financial manias are anecdotally associated with increasing cases of financial fraud, but few studies have successfully measured this quantitatively or addressed the degree to which fraud is a cyclical phenomenon. In this study I employ a novel methodology to estimate the prevalence of fraud and its variance over time in the case of the British Railway Mania of the 1840's. The Railway Mania provides a striking instance of the role of fraud in manias, as contemporary observers alleged widespread malfeasance stemming from the promotion of hundreds of railway companies in the UK in the years 1844 and 1845. Modern scholars, however, have failed to substantiate these allegations. I resolve this discrepancy by using case studies to reveal why fraudulent companies are likely to be omitted from the samples modern historians have used to analyze the mania. I build a more complete database of railway companies using administrative records, and identify fraudulent companies from court cases. Using the new database of railway companies, and positive instances of known frauds, I estimate the proportion of fraudulent companies in the population. My findings suggest extremely elevated instances of fraud, with as much as 20% to 30% of the population of companies promoted in the 1840's meeting the criteria for what contemporaries decried as 'bubble companies'. Moreover, I find the propensity for fraud to be highly procyclical, rising with the increasing railway share prices.
-</details>
-
-"Private Benefits, Public Vices: Railways and Logrolling in the 19th Century British Parliament" with Rui Esteves, under review. [Old version](http://cepr.org/active/publications/discussion_papers/dp.php?dpno=12182):
+"Private Benefits, Public Vices: Railways and Logrolling in the Nineteenth-Century British Parliament" with Rui Esteves, *Journal of Economic History*, Vol. 81, No. 4, 2021. [Link](https://doi.org/10.1017/S0022050721000450):
 <details> 
     <summary> Abstract </summary>
 
 Vote trading among lawmakers (logrolling) can enable political rent-seeking, but is difficult to identify. We use social network methods to measure logrolling by British MPs in the 1840s in order to approve railway projects. MPs had vested interests in railways. Although parliamentary rules barred them from voting directly for their interests, they could trade votes to ensure their interests prevailed. We find logrolling to be prevalent and significant, accounting for nearly a quarter of the railway bills approved. We also find a negative short-term externality from logrolling adding up to an aggregate loss of c.1% of contemporary GDP.
 </details>
 
-["Social networks in economic history: opportunities and challenges"](https://doi.org/10.1016/j.eeh.2019.101299) with Rui Esteves, *Explorations in Economic History*, forthcoming:
+["Social networks in economic history: opportunities and challenges"](https://doi.org/10.1016/j.eeh.2019.101299) with Rui Esteves, *Explorations in Economic History*, Vol. 74, 2019:
 <details> 
     <summary> Abstract </summary>
 
@@ -34,6 +29,19 @@ This paper provides a new interpretation of the early rise of rating agencies in
     <summary> Abstract </summary>
 
 This paper provides a new interpretation of the early rise of rating agencies in the USA (initially known as ‘mercantile agencies’). We explain this American exceptionality through an inductive approach that revisits the conventional parallel with the UK. In contrast with earlier narratives that have emphasised the role of Common Law and the greater understanding of American judges that would have supported the rise of an ethos of ‘transparency’, we argue that Mercantile Agencies prospered as a remedy to deficient bankruptcy law and weak protection of creditor rights in the USA. The result was to raise the value of the nationwide registry of defaulters which the mercantile agencies managed. This ensured the Agencies' profitability and endowed them with resources to buy their survival in a legal environment that remained stubbornly hostile.
+</details>
+
+## Working papers
+
+"Dealers and the microstructure of the 19th century London Stock Exchange"
+
+"Bubbles, IPO waves, and information quality: evidence from media market structure during the British Railway Mania"
+
+"Fraud and Financial Manias: Estimating the Number of 'Bubble' Companies during the Railway Mania of the 1840’s" 
+<details> 
+    <summary> Abstract </summary>
+
+Financial manias are anecdotally associated with increasing cases of financial fraud, but few studies have successfully measured this quantitatively or addressed the degree to which fraud is a cyclical phenomenon. In this study I employ a novel methodology to estimate the prevalence of fraud and its variance over time in the case of the British Railway Mania of the 1840's. The Railway Mania provides a striking instance of the role of fraud in manias, as contemporary observers alleged widespread malfeasance stemming from the promotion of hundreds of railway companies in the UK in the years 1844 and 1845. Modern scholars, however, have failed to substantiate these allegations. I resolve this discrepancy by using case studies to reveal why fraudulent companies are likely to be omitted from the samples modern historians have used to analyze the mania. I build a more complete database of railway companies using administrative records, and identify fraudulent companies from court cases. Using the new database of railway companies, and positive instances of known frauds, I estimate the proportion of fraudulent companies in the population. My findings suggest extremely elevated instances of fraud, with as much as 20% to 30% of the population of companies promoted in the 1840's meeting the criteria for what contemporaries decried as 'bubble companies'. Moreover, I find the propensity for fraud to be highly procyclical, rising with the increasing railway share prices.
 </details>
 
 ["Havas and the Foreign Loan Market, 1889 to 1921"](http://repository.graduateinstitute.ch/record/16597/files/CFD%20SWP%2002-2013.pdf), *Centre for Finance and Development*, Student Working Paper, No 2, 2013:
