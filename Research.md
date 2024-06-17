@@ -1,4 +1,19 @@
 
+## Recent working papers
+
+"Missing Markets: Microstructure and Liquidity on the 19th Century London Stock Exchange", with Rui Esteves *CEPR Discussion Paper No. 19008.* 2024. CEPR Press, Paris & London. [Link](https://cepr.org/publications/dp19008):
+<details>
+    <summary> Abstract </summary>
+    This paper studies the behavior of specialist dealers in choosing to make markets in securities. Our setting is the 19th century London Stock Exchange and the universe of securities listed on the exchange in the 1870s. The LSE was a free-entry dealer market, where dealers were free to choose which securities to deal in. In this context, we show that up to 80% of securities were orphaned with no specialist offering immediate execution. In line with the findings of recent literature, our estimates show that specialist dealers concentrated their market-making in the most liquid securities. A combination of adverse selection and inventory costs prevented the development of liquid markets in most securities, with dealers opting instead to provide match-making services. Our findings are consistent with recent research on the possibility of liquidity bifurcation and market fragility. 
+</details>
+
+
+"The New Poor Law and the health of the population of England and Wales 1834-1860", with D Green, G Mooney and S Szreter, *CEPR Discussion Paper No. 18505*. 2023. CEPR Press, Paris & London. [Link](https://cepr.org/publications/dp18505):
+<details>
+    <summary> Abstract </summary>
+    We estimate the impact of reductions in poor law expenditure following the 1834 Poor Law Amendment Act on rural life expectancy and mortality rates. We find that a 10 per cent decrease in poor law expenditure is associated with roughly a 1.5–2.0 per cent increase in early childhood mortality (ECMR). Our estimates imply 8–10 per cent increases in ECMR and 2–4 per cent falls in rural expectation of life at birth as a result of the spending cuts imposed by the Poor Law Amendment Act. These results help to explain the weak performance of mid-nineteenth century life expectancy measures during a period of rising real wages but falling welfare expenditure. 
+</details>
+
 ## Publications
 
 "Private Benefits, Public Vices: Railways and Logrolling in the Nineteenth-Century British Parliament" with Rui Esteves, *Journal of Economic History*, Vol. 81, No. 4, 2021. [Link](https://doi.org/10.1017/S0022050721000450):
@@ -32,10 +47,6 @@ This paper provides a new interpretation of the early rise of rating agencies in
 </details>
 
 ## Working papers
-
-"Dealers and the microstructure of the 19th century London Stock Exchange"
-
-"Bubbles, IPO waves, and information quality: evidence from media market structure during the British Railway Mania"
 
 "Fraud and Financial Manias: Estimating the Number of 'Bubble' Companies during the Railway Mania of the 1840’s" 
 <details> 
